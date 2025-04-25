@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "The Phantom Menace",
+      "director": "George Lucas",
+      "date": "1999-05-19",
+      "episodeDate": "2015-04-12",
+      "episodeNumber": "#1",
+      "description": "Star Wars Episode I - The first prequel film",
+      "content": "Griffin and David begin their journey examining George Lucas's return to the Star Wars universe with Episode I. They discuss Jar Jar Binks, midi-chlorians, pod racing, and debate whether this film sets up the prequel trilogy effectively.",
+      "tags": ["Star Wars", "sci-fi"],
+      "links": [{ "text": "Listen to Episode", "url": "https://example.com/blank-check/phantom-menace" }]
+    },
+    {
+      "id": 2,
+      "title": "Lady in the Water",
+      "director": "M. Night Shyamalan",
+      "date": "2006-07-21",
+      "episodeDate": "2016-01-24",
+      "episodeNumber": "#25",
+      "description": "M. Night Shyamalan's fairy tale turned box office flop",
+      "content": "The hosts dive into one of Shyamalan's most notorious 'blank check' films, discussing its fairy tale structure, the director casting himself in a pivotal role, and how this film represents the turning point in his career from golden boy to industry punchline.",
+      "tags": ["fantasy", "flop"],
+      "links": [{ "text": "Listen to Episode", "url": "https://example.com/blank-check/lady-water" }]
+    }
+  ]
